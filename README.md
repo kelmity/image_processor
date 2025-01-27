@@ -1,2 +1,2 @@
 # image_processor
-hse cpp lab 1 course 
+applying 8 filters via console $-flag(filter) image path hyperparameters$
